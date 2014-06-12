@@ -1,0 +1,33 @@
+ucelem neni z kazdeho udelat geeka, ale nabidnout nahled na softwarovy svet z jineho uhlu, na druhou stranu dogmaticky nevyvracet vyhodu komercnich reseni - na kazdy ukon existuje ten spravny nastroj.
+
+existuji alternativy
+neprogramovat, na to tu je uz processing nebo PD modul
+nejde jen o software
+udelej si sam X udelej mi (sam) (DIY?)
+
+koncepce otevreneho _systemu_ spise nez softwaru jako takoveho. postaveni otevreneho a uzavreneho systemu proti sobe muze ukazat jejich vzajemne slabiny nebo prednosti
+
+Co je to otevreny system ?
+Otevreny system je ten ktery se da menit. At uz jeho cast nebo celek. Nejde nutne o software, ale o zpusob mysleni o vecech. je potreba myslet o vecech tak, ze se daji modifikovat.
+V pripade softwaru se ale jedna i o jiny zpusob prace, proste to funguje trochu jinak. neni mozne predpokladat ze gimp bude fungovat stejne jako photoshop
+
+otevreny system podporuje  spojovani ruznych veci mezi sebou.
+otevreny system je vsude okolo nas, staci si ho jenom vsimnout.
+
+otevreny software znamena zapojit se. ne nutne programatorsky
+
+
+Co je to uzavreny system ?
+Uzavreny system je stabilni. ve svem priozenem prostredi vyvinuty, urceny pro predem dany ucel.
+V mnoha pripadech je to zarukou koncepcino vyvoje - spriny, deadliny, milestony. v mnoha pripadech ale naopak ne. 
+Muze, ale spise nemusi byt rozsiritelny. Casto jsou na prvnim miste jeho vyvoje penize, resp. zisk ktery bude nova funkcnost generovat.
+
+
+Melo by byt pravidlem ze ke kazdemu uzavrenemu systemu existuje jeden otevreny, je na uzivateli jakou si vybere cestu.
+(to by mel byt scope tohoto predmetu - existuji alternativy a jak je vyuzit)
+
+
+
+books:
+Lawrence Lessig - Free culture
+richard stallman - free as in freedom
